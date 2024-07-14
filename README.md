@@ -42,9 +42,11 @@ Atliq Grands owns multiple five-star hotels across India. They have been in the 
 
 ![Revenue For Day type and Weekly Trends](https://github.com/user-attachments/assets/f0077d5d-5f3a-4ec6-b18c-3451eb05c10d)
 
+
+
  
 ---
 
-Thank you for exploring the ATLIQ Hospitality Data Analytics Project! We hope you find it insightful and valuable. 🏨📊
+Thank you for exploring the ATLIQ Hospitality Data Analytics Project! I hope you find it insightful and valuable. 🏨📊
 
 ---
