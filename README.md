@@ -1,14 +1,14 @@
-# Atliq_hospitality_Analysis
+# Atliq_hospitality_Analysis 📊
 
 Welcome to the ATILQ Hospitality Data Analytics Project! This repository contains insights and visualizations related to the hospitality industry, specifically focusing on ATILQ Grands, a leading luxury hotel chain.
 
-## Project Overview
+## Project Overview 👁️
 
-### **Problem Statement** 
+### **Problem Statement**
 
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue.
 
-### **KPI Indicators**
+### **KPI Indicators** 
  
  1. **ADR - Average Daily Nights**
  2. **RevPAR - Revenue Per Available Rooms**
